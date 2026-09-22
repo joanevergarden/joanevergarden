@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+3270&weight=900&size=22&duration=10000&pause=1000&color=CDCDCD&repeat=false&width=435&lines=%3E+about+me)](https://git.io/typing-svg)⠀⠀
 ```
                                                                   -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                                  -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⢊⣤⡄⠀⠀⠀⠀⠀⠀
+first year compsci student at OpenUni                             -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⢊⣤⡄⠀⠀⠀⠀⠀⠀
                                                                   -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣿⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢡⣿⣿⡇⠐⠀⣀⠀⠀⠀
                                                                   -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠏⠘⡏⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢶⣿⣿⣿⣿⠀⠀⠈⠀⠀⠀
                                                                   -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢹⠀⠀⢿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⡿⠁⡿⣿⠀⠀⠀⠀⠀⠀
